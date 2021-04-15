@@ -6,5 +6,4 @@ The details of all species datasets are shown as below.
 
 ![image](https://user-images.githubusercontent.com/46807118/114845071-0117cd80-9e0e-11eb-953c-8db69acdcf54.png)
 
-
 To download the datasets, you need to use `git-lfs`. The installation and usage of `git-lfs` refer to https://git-lfs.github.com/.
